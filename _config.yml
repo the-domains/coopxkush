@@ -1,7 +1,7 @@
 name: CoopXKush
 favicon: null
-layout_spectrum: 0.3347440301440656
-typography_spectrum: 0.3276230120100081
+layout_spectrum: 0.50813
+typography_spectrum: 0.11498
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.1070212977938354
-  lightness: 0.4784156563691795
-  saturation: 0.740347056183964
-  rhythmicContrast: 0.4832041740883142
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.875
+  rhythmicContrast: 1
 purpose: []
