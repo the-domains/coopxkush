@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CoopXKush]]></title>
         <description><![CDATA[CoopXKush]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/coopxkush/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 18:31:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 18:36:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coopxkush/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coop X Kush Love for the Bay Remix]]></title>
+            <description><![CDATA[<article><h1>Coop X Kush Love for the Bay Remix</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9dee781-192d-46cc-a668-5d8b8eb98548.jpg"></article>]]></description>
+            <link>https://thegrid.ai/coopxkush/coop-x-kush-love-for-the-bay-remix/index.html</link>
+            <guid isPermaLink="false">49115c20-7e39-423c-bfc1-4d9297781e2b</guid>
+            <pubDate>Thu, 21 Apr 2016 18:36:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coop X Kush]]></title>
             <description><![CDATA[<article><h1>Coop X Kush</h1><p>Coop X Kush Artwork by Jimm Hits</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6632cee6bf8a85e0574968769636394c139c1df.jpg"></article>]]></description>
-            <link>undefinedcoop-x-kush/index.html</link>
+            <link>https://thegrid.ai/coopxkush/coop-x-kush/index.html</link>
             <guid isPermaLink="false">0d75f3c1-1248-4157-97a3-8bca22762a06</guid>
             <pubDate>Thu, 21 Apr 2016 18:31:10 GMT</pubDate>
         </item>
