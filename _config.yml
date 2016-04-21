@@ -1,0 +1,28 @@
+name: CoopXKush
+favicon: null
+layout_spectrum: 0.3347440301440656
+typography_spectrum: 0.3276230120100081
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1070212977938354
+  lightness: 0.4784156563691795
+  saturation: 0.740347056183964
+  rhythmicContrast: 0.4832041740883142
+purpose: []
