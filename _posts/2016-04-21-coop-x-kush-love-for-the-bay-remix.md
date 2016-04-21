@@ -5,21 +5,21 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-21T18:36:20.286Z'
-dateModified: '2016-04-21T18:35:42.279Z'
+description: "Love for the Bay (Lovin' You Real Good Remix) on SoundCloud"
+datePublished: '2016-04-21T19:05:05.747Z'
+dateModified: '2016-04-21T19:05:02.750Z'
 title: Coop X Kush Love for the Bay Remix
 author:
-  - name: ''
-    url: ' https://passport.thegrid.io/login/email/authorize?token=Kis9l5hPq0UvmtAp7jMYZYiGkErH4CRsmuVW&user=90c74fdd-380c-4e67-99c7-3c30f5708178'
+  - name: Coop X Kush
+    url: 'https://soundcloud.com/blueeyesfresh/coop-x-kush-love-for-the-bay-lovin-you-real-good-remix'
+sourcePath: _posts/2016-04-21-coop-x-kush-love-for-the-bay-remix.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-coop-x-kush-love-for-the-bay-remix.md
-published: true
 url: coop-x-kush-love-for-the-bay-remix/index.html
 _type: Article
 
