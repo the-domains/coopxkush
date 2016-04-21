@@ -4,8 +4,15 @@
         <description><![CDATA[CoopXKush]]></description>
         <link>https://thegrid.ai/coopxkush/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 18:38:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 18:49:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coopxkush/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coop X Kush]]></title>
+            <description><![CDATA[<article><h1>Coop X Kush</h1><p>Coop X Kush Artwork by Jimm Hits</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6632cee6bf8a85e0574968769636394c139c1df.jpg"></article>]]></description>
+            <link>https://thegrid.ai/coopxkush/coop-x-kush/index.html</link>
+            <guid isPermaLink="false">0d75f3c1-1248-4157-97a3-8bca22762a06</guid>
+            <pubDate>Thu, 21 Apr 2016 18:48:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Do Your Thing]]></title>
             <description><![CDATA[<article><h1>Do Your Thing</h1><p>Do Your Thing by Coop X Kush</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32713a3d-da1e-436e-8f87-19bd623ded15.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/coopxkush/coop-x-kush-love-for-the-bay-remix/index.html</link>
             <guid isPermaLink="false">49115c20-7e39-423c-bfc1-4d9297781e2b</guid>
             <pubDate>Thu, 21 Apr 2016 18:36:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coop X Kush]]></title>
-            <description><![CDATA[<article><h1>Coop X Kush</h1><p>Coop X Kush Artwork by Jimm Hits</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6632cee6bf8a85e0574968769636394c139c1df.jpg"></article>]]></description>
-            <link>https://thegrid.ai/coopxkush/coop-x-kush/index.html</link>
-            <guid isPermaLink="false">0d75f3c1-1248-4157-97a3-8bca22762a06</guid>
-            <pubDate>Thu, 21 Apr 2016 18:31:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
